@@ -12,8 +12,8 @@ I aim to provide an addtional foundation for RedM servers, offering various feat
 - [Check our YouTube for tutorials](https://www.youtube.com/@rexshack/videos)
 
 ## 💝 Support the Developer
-[Subscribe as RexSupporter](https://rexshackgaming.tebex.io/package/6431279)
-[Purchase Premium Resources](https://rexshackgaming.tebex.io/)
+- [Subscribe as RexSupporter](https://rexshackgaming.tebex.io/package/6431279)
+- [Purchase Premium Resources](https://rexshackgaming.tebex.io/)
 
 Your support helps fund continued development and new features!
 
