@@ -5,7 +5,7 @@ As the founder of the RSG RedM Framework which is a community-driven project tha
 I aim to provide an addtional foundation for RedM servers, offering various features and systems that server owners can use and customize which are open-source and free.
 
 # Documentation
-[Documentation](https://github.com/RexShackGaming/rex-docs/tree/main/rex-wanted)
+[Documentation](https://github.com/RexShackGaming/rex-docs)
 
 ### Support
 - [Join our Discord](https://discord.gg/YUV7ebzkqs)
