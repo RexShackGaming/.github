@@ -6,3 +6,5 @@ I aim to provide an addtional foundation for RedM servers, offering various feat
 
 **Developed by RexShackGaming**  
 *Making RedM servers better, one script at a time* 🤠
+
+Join my discord for latest updates and support : https://discord.gg/YUV7ebzkqs
