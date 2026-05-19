@@ -7,4 +7,6 @@ I aim to provide an addtional foundation for RedM servers, offering various feat
 **Developed by RexShackGaming**  
 *Making RedM servers better, one script at a time* 🤠
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="rexshack" data-color="#FF5F5F" data-emoji="🍺" data-font="Poppins" data-text="Buy RexShack a beer" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 [Buy Me a Beer](https://buymeacoffee.com/rexshack)
