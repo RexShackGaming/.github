@@ -6,4 +6,4 @@ Hey there, travelers! I'm RexShack, a UK-based hobbyist developer on a mission t
 **Developed by RexShackGaming**  
 *Making RedM servers better, one script at a time* 🤠
 
-[Join My Discord](https://discord.gg/Dmeh4dTQBT) : [Tebex Store](https://rexshackgaming.tebex.io/) : [Buy Me a Beer](https://buymeacoffee.com/rexshack) : [YoutTube](https://www.youtube.com/@rexshack)
+[Join My Discord](https://discord.gg/Dmeh4dTQBT) : [Buy Me a Beer](https://buymeacoffee.com/rexshack)
